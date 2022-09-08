@@ -1,1 +1,1 @@
-# Dice-
+# Dice
